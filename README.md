@@ -6,7 +6,7 @@ Use `Node.js`, `Express` and `Knex` to build an API that provides **Register** a
 
 ## Instructions
 
-### Task 1: Set Up The Project With Git
+### Task 1: Set Up The Project With Gitcd 
 
 Follow these steps to set up and work on your project:
 
